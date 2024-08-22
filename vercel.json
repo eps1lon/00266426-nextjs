@@ -1,6 +1,9 @@
 {
   "functions": {
-    "pages/api/**/*.ts": {
+    "pages/api/hello.ts": {
+      "maxDuration": 1
+    },
+    "pages/api/nested/test.ts": {
       "maxDuration": 1
     }
   }
