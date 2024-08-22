@@ -1,6 +1,6 @@
 {
   "functions": {
-    "pages/api/hello.ts": {
+    "pages/api/hello.tsx": {
       "maxDuration": 1
     },
     "src/app/app-route/route.ts": {
