@@ -2,6 +2,9 @@
   "functions": {
     "pages/api/hello.ts": {
       "maxDuration": 1
+    },
+    "src/app/app-route/route.ts": {
+      "maxDuration": 1
     }
   }
 }
